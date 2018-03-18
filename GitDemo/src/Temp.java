@@ -5,6 +5,7 @@ public class Temp {
 		// TODO Auto-generated method stub
 
 		System.out.println("World of Github!!!! Welcome");
+		System.out.println("Git Demo project created");
 	}
 
 }
