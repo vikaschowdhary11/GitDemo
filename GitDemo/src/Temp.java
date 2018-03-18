@@ -11,6 +11,7 @@ public class Temp {
 				int arr[]= {1,2,3};
 				
 				for(int i=0;i<arr.length;i++) {
+					System.out.println("Data displayed ----**");
 					System.out.println("The data is "+arr[i]);	
 				}
 	}
